@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b4cf40cd413c1f54a86800ddbb4aea6f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SuccubusPrefab: {fileID: 484994887276967965, guid: d04d191e06f2e214885b04d13b5c0477,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
