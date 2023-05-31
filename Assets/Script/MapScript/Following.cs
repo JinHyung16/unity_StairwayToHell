@@ -33,7 +33,7 @@ public class Following : MonoBehaviour
     //startGame 때 생성
     private void Awake()
     {
-        playersc = GameObject.Find("TestPlayer").GetComponent<TestPlayerScript>();
+        playersc = GameObject.Find("Player").GetComponent<TestPlayerScript>();
         stairsc = GameObject.Find("GameManager").GetComponent<CreateStairs>();
         animator = GetComponent<Animator>();
     }

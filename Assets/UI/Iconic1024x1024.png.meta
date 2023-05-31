@@ -471,7 +471,7 @@ TextureImporter:
       213: 21300310
     second: Iconic1024x1024_155
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -492,6 +492,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -530,6 +531,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 1
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -557,6 +559,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -3856,6 +3882,163 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Iconic1024x1024_19: 21300038
+      Iconic1024x1024_4: 21300008
+      Iconic1024x1024_45: 21300090
+      Iconic1024x1024_49: 21300098
+      Iconic1024x1024_48: 21300096
+      Iconic1024x1024_67: 21300134
+      Iconic1024x1024_96: 21300192
+      Iconic1024x1024_25: 21300050
+      Iconic1024x1024_63: 21300126
+      Iconic1024x1024_22: 21300044
+      Iconic1024x1024_39: 21300078
+      Iconic1024x1024_122: 21300244
+      Iconic1024x1024_139: 21300278
+      Iconic1024x1024_136: 21300272
+      Iconic1024x1024_141: 21300282
+      Iconic1024x1024_5: 21300010
+      Iconic1024x1024_104: 21300208
+      Iconic1024x1024_112: 21300224
+      Iconic1024x1024_24: 21300048
+      Iconic1024x1024_47: 21300094
+      Iconic1024x1024_132: 21300264
+      Iconic1024x1024_14: 21300028
+      Iconic1024x1024_42: 21300084
+      Iconic1024x1024_137: 21300274
+      Iconic1024x1024_3: 21300006
+      Iconic1024x1024_13: 21300026
+      Iconic1024x1024_126: 21300252
+      Iconic1024x1024_152: 21300304
+      Iconic1024x1024_98: 21300196
+      Iconic1024x1024_129: 21300258
+      Iconic1024x1024_79: 21300158
+      Iconic1024x1024_41: 21300082
+      Iconic1024x1024_44: 21300088
+      Iconic1024x1024_82: 21300164
+      Iconic1024x1024_66: 21300132
+      Iconic1024x1024_51: 21300102
+      Iconic1024x1024_131: 21300262
+      Iconic1024x1024_28: 21300056
+      Iconic1024x1024_68: 21300136
+      Iconic1024x1024_111: 21300222
+      Iconic1024x1024_148: 21300296
+      Iconic1024x1024_78: 21300156
+      Iconic1024x1024_94: 21300188
+      Iconic1024x1024_123: 21300246
+      Iconic1024x1024_153: 21300306
+      Iconic1024x1024_90: 21300180
+      Iconic1024x1024_155: 21300310
+      Iconic1024x1024_88: 21300176
+      Iconic1024x1024_32: 21300064
+      Iconic1024x1024_20: 21300040
+      Iconic1024x1024_10: 21300020
+      Iconic1024x1024_100: 21300200
+      Iconic1024x1024_69: 21300138
+      Iconic1024x1024_93: 21300186
+      Iconic1024x1024_8: 21300016
+      Iconic1024x1024_146: 21300292
+      Iconic1024x1024_133: 21300266
+      Iconic1024x1024_85: 21300170
+      Iconic1024x1024_102: 21300204
+      Iconic1024x1024_105: 21300210
+      Iconic1024x1024_140: 21300280
+      Iconic1024x1024_61: 21300122
+      Iconic1024x1024_55: 21300110
+      Iconic1024x1024_21: 21300042
+      Iconic1024x1024_40: 21300080
+      Iconic1024x1024_6: 21300012
+      Iconic1024x1024_89: 21300178
+      Iconic1024x1024_134: 21300268
+      Iconic1024x1024_23: 21300046
+      Iconic1024x1024_147: 21300294
+      Iconic1024x1024_83: 21300166
+      Iconic1024x1024_106: 21300212
+      Iconic1024x1024_108: 21300216
+      Iconic1024x1024_84: 21300168
+      Iconic1024x1024_27: 21300054
+      Iconic1024x1024_59: 21300118
+      Iconic1024x1024_116: 21300232
+      Iconic1024x1024_150: 21300300
+      Iconic1024x1024_16: 21300032
+      Iconic1024x1024_144: 21300288
+      Iconic1024x1024_124: 21300248
+      Iconic1024x1024_1: 21300002
+      Iconic1024x1024_130: 21300260
+      Iconic1024x1024_17: 21300034
+      Iconic1024x1024_62: 21300124
+      Iconic1024x1024_65: 21300130
+      Iconic1024x1024_38: 21300076
+      Iconic1024x1024_87: 21300174
+      Iconic1024x1024_145: 21300290
+      Iconic1024x1024_70: 21300140
+      Iconic1024x1024_43: 21300086
+      Iconic1024x1024_120: 21300240
+      Iconic1024x1024_30: 21300060
+      Iconic1024x1024_57: 21300114
+      Iconic1024x1024_35: 21300070
+      Iconic1024x1024_37: 21300074
+      Iconic1024x1024_15: 21300030
+      Iconic1024x1024_54: 21300108
+      Iconic1024x1024_103: 21300206
+      Iconic1024x1024_9: 21300018
+      Iconic1024x1024_115: 21300230
+      Iconic1024x1024_113: 21300226
+      Iconic1024x1024_52: 21300104
+      Iconic1024x1024_91: 21300182
+      Iconic1024x1024_127: 21300254
+      Iconic1024x1024_50: 21300100
+      Iconic1024x1024_154: 21300308
+      Iconic1024x1024_11: 21300022
+      Iconic1024x1024_142: 21300284
+      Iconic1024x1024_7: 21300014
+      Iconic1024x1024_121: 21300242
+      Iconic1024x1024_46: 21300092
+      Iconic1024x1024_109: 21300218
+      Iconic1024x1024_26: 21300052
+      Iconic1024x1024_72: 21300144
+      Iconic1024x1024_118: 21300236
+      Iconic1024x1024_73: 21300146
+      Iconic1024x1024_60: 21300120
+      Iconic1024x1024_56: 21300112
+      Iconic1024x1024_77: 21300154
+      Iconic1024x1024_71: 21300142
+      Iconic1024x1024_135: 21300270
+      Iconic1024x1024_143: 21300286
+      Iconic1024x1024_86: 21300172
+      Iconic1024x1024_117: 21300234
+      Iconic1024x1024_125: 21300250
+      Iconic1024x1024_114: 21300228
+      Iconic1024x1024_0: 21300000
+      Iconic1024x1024_81: 21300162
+      Iconic1024x1024_110: 21300220
+      Iconic1024x1024_92: 21300184
+      Iconic1024x1024_76: 21300152
+      Iconic1024x1024_2: 21300004
+      Iconic1024x1024_36: 21300072
+      Iconic1024x1024_31: 21300062
+      Iconic1024x1024_99: 21300198
+      Iconic1024x1024_33: 21300066
+      Iconic1024x1024_151: 21300302
+      Iconic1024x1024_128: 21300256
+      Iconic1024x1024_101: 21300202
+      Iconic1024x1024_18: 21300036
+      Iconic1024x1024_64: 21300128
+      Iconic1024x1024_97: 21300194
+      Iconic1024x1024_95: 21300190
+      Iconic1024x1024_74: 21300148
+      Iconic1024x1024_12: 21300024
+      Iconic1024x1024_34: 21300068
+      Iconic1024x1024_53: 21300106
+      Iconic1024x1024_119: 21300238
+      Iconic1024x1024_29: 21300058
+      Iconic1024x1024_80: 21300160
+      Iconic1024x1024_107: 21300214
+      Iconic1024x1024_149: 21300298
+      Iconic1024x1024_75: 21300150
+      Iconic1024x1024_58: 21300116
+      Iconic1024x1024_138: 21300276
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

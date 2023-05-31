@@ -22,7 +22,7 @@ public class FallObs : MonoBehaviour
         stairsc = GameObject.Find("GameManager").GetComponent<CreateStairs>();
         playersc = GameObject.Find("Player").GetComponent<TestPlayerScript>();
         setUpsc = GameObject.Find("GameManager").GetComponent<SetUp>();
-        player = GameObject.Find("TestPlayer");
+        player = GameObject.Find("Player");
     }
 
     void Update () 
