@@ -1,6 +1,22 @@
-# unity_StairwayToHell
-😀Hello, I'm Hugh (korea name is JinHyung)  
-✨Introduce briefly the "Stairway To Hell"  
-📅I developed when winter vacation in 2018  
-🎮My teacher taught me "What essential fun elements of the game's genre?" so, i had been study arcade genre that google playstore "무한의계단"!!  
-Participate as game designer, artist and sound designer  
+# Stairway to Hell 🪜
+
+객체지향적 설계를 처음 실험하며 구조적 사고에 입문한 1인 개발 게임입니다.  
+무작위 계단 생성, 반응 기반 게임 루프, UI/스코어 시스템을 스스로 구현했습니다.
+
+## 📌 프로젝트 개요
+
+- 장르: 캐주얼 / 무한 러너
+- 플랫폼: Unity
+- 역할: 개인 개발
+- 기간: 2018년 동계 멤버십
+
+## 🔧 주요 기능
+
+- 계단 랜덤 생성 알고리즘
+- 방향키 입력 → 이동 / 탈락 구조
+- 스코어 UI + 게임 루프 처리
+
+## 💡 기술 포인트
+
+- 클래스 역할 분리 명명 (`TrapGenerator.cs`)
+- 첫 구조적 게임 구현 경험
